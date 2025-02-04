@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thauany Moraes - Advocacia</title>
+    <title>Thauany Moraes - Advocacia e Consultoria Jurídica</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <h1>Thauany Moraes Advocacia</h1>
-        <p>Atendimento especializado em Direito Bancário e Previdenciário</p>
+        <p>Atendimento focado em Direito de Família e Previdenciário</p>
         <a href="#contato" class="btn">Agende uma consulta</a>
     </header>
       <section id="sobre">
@@ -23,10 +23,10 @@
             <li><strong>Direito Previdenciário:</strong> Aposentadoria, benefícios do INSS, revisão de cálculos.</li>
         </ul>
     </section>    
-    <section id="contato">
+    <section id="[contato](https://w.app/swybxw)">
         <h2>Fale Comigo</h2>
         <p>Entre em contato para esclarecer dúvidas ou agendar uma consulta.</p>
-        <a href="https://wa.me/seunumero" class="btn">Fale pelo WhatsApp</a>
+        <a href="https://w.app/swybxw" class="btn">Fale pelo WhatsApp</a>
     </section>    
     <footer>
         <p>&copy; 2025 Thauany Moraes Advocacia - Todos os direitos reservados</p>
